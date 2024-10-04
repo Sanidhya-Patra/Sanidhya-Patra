@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 📫 How to reach me **sanidhyakumarpatra@gmail.com**
+- 📫 How to reach me [Email](sanidhyakumarpatra@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x23-qlgxPpxoqZam3Dil_dH1_7CAHete/view?usp=sharing](https://drive.google.com/file/d/1x23-qlgxPpxoqZam3Dil_dH1_7CAHete/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1x23-qlgxPpxoqZam3Dil_dH1_7CAHete/view?usp=sharing)
 
 - 📝 I write articles once in a while on [Medium](https://medium.com/@sanidhyakumarpatra)
 
