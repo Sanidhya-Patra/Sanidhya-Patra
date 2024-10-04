@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1x23-qlgxPpxoqZam3Dil_dH1_7CAHete/view?usp=sharing](https://drive.google.com/file/d/1x23-qlgxPpxoqZam3Dil_dH1_7CAHete/view?usp=sharing)
 
+- 📝 I write articles once in a while on [Medium](https://medium.com/@sanidhyakumarpatra)
+
 - ⚡ Fun fact: **I play Valorant**
 
 <h3 align="left">Connect with me:</h3>
