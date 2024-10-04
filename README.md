@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanidhya-patra" alt="sanidhya-patra" /></a> </p>
 
-- 🔭 I’m currently working on [a Doctor appointment booking website](https://github.com/Sanidhya-Patra/doctor-appointment)
+- 🔭 I’m currently working on [my Portfolio website](https://github.com/Sanidhya-Patra/portfolio)
 
 - 🌱 I’m currently learning **DevOps**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1x23-qlgxPpxoqZam3Dil_dH1_7CAHete/view?usp=sharing](https://drive.google.com/file/d/1x23-qlgxPpxoqZam3Dil_dH1_7CAHete/view?usp=sharing)
 
-- ⚡ Fun fact **I play Valorant**
+- ⚡ Fun fact: **I play Valorant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
