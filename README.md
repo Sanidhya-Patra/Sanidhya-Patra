@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1x23-qlgxPpxoqZam3Dil_dH1_7CAHete/view?usp=sharing)
 
-- 📝 I write articles once in a while on [Medium](https://medium.com/@sanidhyakumarpatra)
+- 📝 I occasionally put out my thoughts on [Medium](https://medium.com/@sanidhyakumarpatra)
 
 - ⚡ Fun fact: **I play Valorant**
 
